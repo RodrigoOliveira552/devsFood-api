@@ -11,7 +11,7 @@ public class DevFoodController {
     @GetMapping("/hello")
     @ResponseBody
     public String hello() {
-        return "Teste rodando!";
+        return "Teste!";
     }
 
 }

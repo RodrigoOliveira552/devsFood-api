@@ -2,9 +2,10 @@ package com.api.devsFood.di.service;
 
 import com.api.devsFood.di.modelo.Cliente;
 import com.api.devsFood.di.notificacao.Notificador;
+import org.springframework.stereotype.Component;
 
 
-//@Component
+@Component
 public class AtivacaoClienteService {
 
     private Notificador notificador;

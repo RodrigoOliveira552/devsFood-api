@@ -1,7 +1,8 @@
-package com.api.devsFood.di;
+/*package com.api.devsFood.di;
 
 import com.api.devsFood.di.modelo.Cliente;
 import com.api.devsFood.di.notificacao.Notificador;
+import com.api.devsFood.di.notificacao.NotificadorEmail;
 import com.api.devsFood.di.notificacao.NotificadorSMS;
 import com.api.devsFood.di.service.AtivacaoClienteService;
 
@@ -19,3 +20,4 @@ public class Main {
 
     }
 }
+*/
